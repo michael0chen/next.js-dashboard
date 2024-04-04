@@ -7,6 +7,10 @@ for trying out public deployment & integration with GitHub using their free Verc
 
 See [chapter 6](https://nextjs.org/learn/dashboard-app/setting-up-your-database) of the course for details on pushing to GitHub, and Vercel account/deployment setup. Turned out it was simple and quick as described.
 
+Demo:
+- Homepage: https://next-js-dashboard-fawn-kappa.vercel.app/
+- Dashboard: https://next-js-dashboard-fawn-kappa.vercel.app/dashboard.
+
 In 2024, it is now tricker to push local code to GitHub via the command line because of the authentication required.  It is easier to install [GitHub Desktop](https://desktop.github.com/), sign in, and upload the code this way.
 
 Additional tweaks to the course tutorial:
